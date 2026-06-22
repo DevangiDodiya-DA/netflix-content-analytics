@@ -11,7 +11,8 @@ The ultimate goal is to translate raw performance analytics into actionable inte
 * **Statistical Analysis Platform:** IBM SPSS Statistics
 * **Frameworks:** Extract, Transform, Load (ETL) Data Pipelines, Segmentation Frameworks
 * **Methodologies:** Descriptive Analytics, Pearson Correlation, Multiple Linear Regression, Independent Samples T-Testing, One-Way ANOVA with Post-Hoc Tracking, K-Means Clustering
-
+* **Source Artifacts Hosted:** * `.sav` (Fully engineered dataset matrix containing recoded variables and binned features)
+    * `.spv` (Complete analytical output ledger detailing all raw descriptive tables, regression summaries, ANOVA distributions, and cluster diagrams)
 ---
 
 ## 🔄 Data Pipeline & Engineering (ETL)
